@@ -249,7 +249,7 @@ Display the contact email address set in the configuration file.
 
 <h2 id="registration">Registration</h2>
 
-<b>This is an in-person workshop only. Virtual attendance is not possible.</b>
+<b>This is a 1-day in-person workshop only. Virtual attendance is not possible.</b>
 
 <ul>
 
